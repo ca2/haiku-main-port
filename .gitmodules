@@ -1,0 +1,24 @@
+[submodule "audio"]
+	path = audio
+	url = ../port-audio
+	branch = main
+[submodule "base"]
+	path = base
+	url = ../port-haiku-base
+	branch = main
+[submodule "common"]
+	path = common
+	url = ../port-common
+	branch = main
+[submodule "graphics"]
+	path = graphics
+	url = ../port-graphics
+	branch = main
+[submodule "imaging"]
+	path = imaging
+	url = ../port-imaging
+	branch = main
+[submodule "user-generation1"]
+	path = user-generation1
+	url = ../../cpp-port/user-generation1
+	branch = main
